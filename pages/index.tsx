@@ -43,7 +43,7 @@ const Index: React.FC<IndexProps> = ({ posts }) => {
       <div className="gap-1 px-4">
         <div className="px-2">
           <h1 className="text-3xl sm:text-4xl font-extrabold ">
-            Hi, I&apos;m Parsa.
+            Hi, I&apos;m Andrew Tate.
           </h1>
           <p className="text-sm sm:text-lg font-mono font-semibold text-neutral-600 dark:text-neutral-400">
             Software Engineering Apprentice at{" "}
